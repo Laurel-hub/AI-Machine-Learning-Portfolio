@@ -1,0 +1,2 @@
+## Artifact 1: Collaborative Discussion 1
+This folder includes my discussion post, peer responses, and reflection commentary.
