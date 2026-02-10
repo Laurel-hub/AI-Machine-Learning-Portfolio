@@ -1,8 +1,0 @@
-## Artifact 4: Individual Presentation – Neural Network Models for Object Recognition
-
-This artifact includes my individual project presentation for the topic *“Neural Network Models for Object Recognition Using Multi-Track ML Approaches.”*  
-I completed **Track 2 (Deep Learning)**, where I implemented a **Convolutional Neural Network (CNN)** using the **CIFAR-10 dataset**. The task involved data preprocessing, model training, validation, and evaluating performance metrics such as accuracy, precision, and confusion matrices.
-
-I found this project both challenging and rewarding. Initially, I faced difficulties in understanding model architecture and tuning hyperparameters. However, through self-learning and experimentation, I gained confidence in concepts such as **data augmentation**, **one-hot encoding**, and **transfer learning**. Seeing how these methods enhanced the model’s performance and could be applied to real-world problems—such as healthcare imaging or autonomous vehicles—was particularly inspiring.
-
-This artifact represents my ability to apply theoretical knowledge from the course to practical AI tasks. It also improved my technical communication and problem-solving abilities, especially when creating my 20-minute presentation and transcript. Overall, it demonstrated my growth as a reflective, technically competent AI practitioner.  
