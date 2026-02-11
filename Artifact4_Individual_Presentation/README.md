@@ -1,13 +1,28 @@
-This artefact showcases my individual project presentation for Track 2 (Deep Learning), where I developed and evaluated convolutional neural network (CNN) models using the CIFAR-10 dataset. The task involved applying deep learning techniques such as data augmentation, one-hot encoding, and hyperparameter tuning to improve model accuracy and generalisation.
+# Artifact 4 – Individual Machine Learning Presentation
 
-The presentation demonstrates my ability to train, validate, and interpret CNN performance metrics, as well as reflect on the advantages and trade-offs of deep learning compared to other machine learning approaches. I also discuss practical challenges encountered, including GPU limitations in Google Colab and model optimisation.
+This artifact contains an individual presentation developed as part of my MSc Artificial Intelligence coursework. The presentation focuses on applied machine learning concepts, model development, and performance evaluation, demonstrating both technical understanding and the ability to communicate analytical results clearly.
 
-This artefact includes:
+## Contents
 
-PowerPoint presentation slides
+### Machine Learning Presentation
+- **Machine_Learning_Presentation.pptx**  
+  The main presentation slides outlining the problem context, methodology, results, and conclusions.
 
-Transcript (with references)
+### Revised Transcript
+- **Revised_Transcript.pdf**  
+  A refined presentation transcript providing a structured narrative aligned with the slide content.
 
-Appendix (model code and results summary)
+### Presentation Appendix
+- **Machine_Learning_Presentation_Appendix/**  
+  Supplementary material supporting the presentation, including additional explanations and technical detail.
 
-Together, these materials illustrate both the technical depth and reflective insight gained from implementing neural networks for object recognition, and how these skills can be applied to healthcare image analysis and other real-world AI applications.
+### Presentation Commentary
+- **Individual_Presentation_Commentary/**  
+  Reflective commentary discussing the development process, learning outcomes, and individual contribution.
+
+## Purpose of This Artifact
+
+This artifact demonstrates my ability to:
+- Communicate machine learning concepts to a non-technical audience
+- Present analytical findings in a structured and professional manner
+- Reflect critically on my individual learning and development
