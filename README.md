@@ -2,9 +2,9 @@
 ## Oghenevurie Lauretta  
 
 Welcome to my E-Portfolio for the module **Machine Learning**.  
-This repository showcases my learning journey through four key artefacts and a final reflective essay.
+This repository contains assessed coursework completed as part of the Machine Learning module within the MSc Artificial Intelligence programme.
 
-Each artifact demonstrates the development of my knowledge, critical understanding, and professional growth in areas such as responsible AI, data ethics, collaboration, and deep learning applications.  
+Each artefact demonstrates the development of my knowledge, critical understanding, and professional growth in areas such as responsible AI, data ethics, collaboration, and deep learning applications.  
 
 ### 📂 Contents  
 - **Artefact 1:** Collaborative Discussion 1 – The 4th Industrial Revolution 
