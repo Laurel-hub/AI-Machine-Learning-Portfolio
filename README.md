@@ -1,70 +1,64 @@
 # Machine Learning Projects (MSc Artificial Intelligence)
 
-This repository showcases a selection of applied machine learning projects completed as part of my MSc in Artificial Intelligence.  
-The work demonstrates my ability to design, evaluate, and communicate machine learning solutions while considering ethical, legal, and collaborative dimensions of AI development.
+This repository showcases a curated selection of machine learning work completed as part of my MSc in Artificial Intelligence.  
+The projects demonstrate my ability to design, evaluate, and communicate machine learning solutions while considering ethical, legal, and collaborative dimensions of AI development.
 
 Rather than focusing purely on academic outcomes, this portfolio highlights transferable industry skills including:
-- Problem framing and model selection
-- Supervised learning and neural networks
-- Model evaluation and interpretation
-- Responsible and ethical AI considerations
-- Technical communication and teamwork
+- Problem framing and model selection  
+- Supervised learning and neural networks  
+- Model evaluation and interpretation  
+- Responsible and ethical AI considerations  
+- Technical communication and teamwork  
 
 ---
 
-## 🔍 Project Overview
+## 🔍 Repository Structure
 
-### 1. AI Ethics & the Fourth Industrial Revolution  
-**Focus:** Critical discussion on AI’s societal impact, automation, and ethical responsibility.  
+### Artifact 1 – Collaborative Discussion 1  
+**Focus:** Ethical and societal implications of AI systems.  
 **Skills demonstrated:**
-- Ethical reasoning in AI systems  
-- Written technical communication  
+- Ethical reasoning in AI development  
 - Stakeholder-aware analysis  
+- Structured academic communication  
 
-📁 Folder: `projects/collaborative-discussion-ai-ethics`
+📁 Folder: `Artifact1_CollaborativeDiscussion1`
 
 ---
 
-### 2. Legal and Ethical Perspectives on Artificial Neural Networks  
-**Focus:** Examination of legal, regulatory, and ethical challenges surrounding ANN deployment.  
+### Artifact 2 – Collaborative Discussion 2  
+**Focus:** Legal and regulatory perspectives on artificial neural networks and AI deployment.  
 **Skills demonstrated:**
 - Responsible AI principles  
-- Policy-aware technical analysis  
+- Policy-aware technical reasoning  
 - Risk identification in ML systems  
 
-📁 Folder: `projects/legal-ethical-ann`
+📁 Folder: `Artifact2_CollaborativeDiscussion2`
 
 ---
 
-### 3. Group Machine Learning Project  
-**Focus:** Collaborative development of a machine learning solution addressing a real-world problem.  
+### Artifact 3 – Group Machine Learning Project (Airbnb Dataset)  
+**Focus:** Collaborative application of classical machine learning techniques including regression and clustering.  
 **Skills demonstrated:**
 - End-to-end ML workflow  
-- Feature selection and model evaluation  
-- Team collaboration and leadership  
-- Translating technical results for non-technical audiences  
+- Data preprocessing and feature engineering  
+- Model evaluation and comparative analysis  
+- Team collaboration and communication  
 
-📁 Folder: `projects/group-ml-project`
+📁 Folder: `Artifact3_GroupProject`
+
+> A standalone public-facing repository also presents this project in a refined format for portfolio review.
 
 ---
 
-### 4. Neural Networks for Object Recognition  
-**Focus:** Design and evaluation of convolutional neural networks for image classification.  
+### Artifact 4 – Individual Machine Learning Presentation  
+**Focus:** Application and communication of machine learning concepts, including neural networks for object recognition.  
 **Skills demonstrated:**
 - Deep learning fundamentals  
 - CNN architecture design  
-- Model performance analysis  
-- Overfitting and generalisation control  
+- Model evaluation and performance interpretation  
+- Professional presentation of technical results  
 
-📁 Folder: `projects/cnn-object-recognition`
-
----
-
-## 🧠 Reflective Practice
-
-A reflective essay is included to demonstrate professional growth, learning progression, and critical self-evaluation across the module.
-
-📁 Folder: `reflection/reflective-essay.md`
+📁 Folder: `Artifact4_Individual_Presentation`
 
 ---
 
@@ -77,8 +71,7 @@ A reflective essay is included to demonstrate professional growth, learning prog
 
 ---
 
-## 📌 Notes for Employers
-This repository represents **applied machine learning thinking**, not isolated coursework.  
-Each project reflects industry-relevant skills including model evaluation, ethical reasoning, collaboration, and clear communication of results.
+## 📌 Notes for Reviewers
 
-More applied projects (e.g. predictive modelling, analytics, and real-world datasets) are available across my GitHub profile.
+This repository represents structured MSc machine learning work.  
+For applied standalone projects, including end-to-end deep learning implementations and predictive modelling, please explore the additional repositories available on my GitHub profile.
