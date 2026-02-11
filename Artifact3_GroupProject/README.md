@@ -1,13 +1,10 @@
-This artefact represents our group project for the module, where we collaboratively developed a machine learning model to analyse and interpret healthcare-related data. The project involved applying data cleaning, exploratory data analysis (EDA), visualisation, clustering, and regression techniques to uncover meaningful insights and relationships within the dataset.
+This artifact represents a collaborative group machine learning project completed as part of the MSc Artificial Intelligence programme. The project focused on applying classical machine learning techniques to analyse and interpret real-world data, including data cleaning, exploratory data analysis (EDA), visualisation, clustering, and regression, with the aim of uncovering meaningful patterns and relationships within the dataset.
 
-As Team Leader, I coordinated team meetings, managed the group timeline, and ensured accountability through shared platforms such as GitHub and Google Drive. These tools allowed transparent collaboration, version control, and real-time document editing. I also compiled and edited the final report, ensuring a cohesive structure and clear presentation of our results.
+As **Team Leader**, I coordinated group meetings, managed project timelines, and ensured accountability across the team. Collaboration was facilitated through shared platforms such as GitHub and Google Drive, enabling transparent version control, structured task management, and real-time document editing. I also compiled and edited the final group report, ensuring a cohesive narrative, consistent analysis, and clear presentation of results.
 
-This artefact includes:
+This artifact includes:
+- Group machine learning project report  
+- Team contract and meeting documentation  
+- Peer evaluation materials and feedback summary  
 
-Group project report
-
-Team contract and meeting notes
-
-Peer evaluation form and feedback summary
-
-The project strengthened my leadership, teamwork, and data analysis skills, while deepening my understanding of how machine learning techniques can be collaboratively applied to complex health datasets. It also reinforced my appreciation of ethical teamwork, communication, and adaptability within distributed teams.
+Through this project, I strengthened my leadership, teamwork, and applied data analysis skills, while gaining practical experience in collaboratively developing and evaluating machine learning models. The work also reinforced the importance of ethical collaboration, clear communication, and adaptability when working within distributed technical teams.
